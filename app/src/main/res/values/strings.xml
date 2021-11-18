@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Clothes</string>
+    <string name="wanita">wanita</string>
+    <string name="PRIA">pria</string>
+    <string name="content_text"></string>
+    <string name="content_specs_baju">Baju Kaos</string>
+    <string name="content_specs_size"> S = C:61 A:40 B36,
+    M = C:64 A:43 B37, L = C:71 A:48 B42, XL = C:74 A:50 B44
+    </string>
+    <string name="content_specs_alamat">
+        Toko AAA Busana
+    </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="baju">Jenis Baju</string>
+    <string name="size">Size</string>
+    <string name="alamat">Toko</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Park Shin Hye</string>
+    <string name="des">Detail</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 13500K</string>
+    <string name="dummy_photos">6 photos</string>
+<!--batasan -->
+    <string name="text_awal"></string>
+    <string name="content_baju">Dress Panjang</string>
+    <string name="content_size"> S = C:61 A:40 B36,
+    M = C:64 A:43 B37, L = C:71 A:48 B42, XL = C:74 A:50 B44
+    </string>
+    <string name="content_alamat">
+        Toko AAA Busana
+    </string>
+    <string name="s">Stock hanya 2 buah</string>
+    <string name="specific">Spesifikasi</string>
+    <string name="dress">Jenis Baju</string>
+    <string name="ukuran">Size</string>
+    <string name="ala">Toko</string>
+    <string name="sel">Dijual oleh</string>
+    <string name="myname">Park Shin Hye</string>
+    <string name="detail">Detail</string>
+    <string name="beli">Beli</string>
+    <string name="dummyvalue">Rp. 23500K</string>
+    <string name="dummyphotos">6 photos</string>
+
+</resources>
